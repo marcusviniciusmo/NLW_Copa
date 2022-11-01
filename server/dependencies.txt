@@ -1,2 +1,5 @@
 // Node Project created
 npm init -y
+
+// Installing TypeScript
+npm i typescript -D
