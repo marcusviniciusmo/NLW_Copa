@@ -3,3 +3,6 @@ npm init -y
 
 // Installing TypeScript
 npm i typescript -D
+
+// Creation TypeScript config file
+npx tsc --init
